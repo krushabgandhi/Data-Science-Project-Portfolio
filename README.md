@@ -6,7 +6,7 @@ I have created a project for each of the stages involved in the __data science p
 
 ## The overview of each project is as described below:
 (Click on the folder of the project for which you want to view the code(jupyter and markdown) files and results.)
-# Machine Learning Project: Assesing Wine Qualities
+## Machine Learning Project: Assesing Wine Qualities
 
 __Objective__ : Analyzed chemical properties influencing the quality of wines.
 
@@ -18,7 +18,7 @@ __Models__: Built Linear Regression and Support Vector Machine (SVM) models to p
 
 __Results__: Key factors driving wine quality were alcohol content, sulphates and acidity. SVM performed slightly better than linear model as the pH Root Mean Square Error (RMSE) for SVM is 0.1068 and for linear model is 0.1095.
 
-# Data Visualization Project: Stock Market Analysis
+## Data Visualization Project: Stock Market Analysis
 
 __Motivation__: Observed the daily stock trends of the tech giants (Google, Amazon, Microsoft, Apple).
 
@@ -28,7 +28,7 @@ __Analysis__: Visualized the attributes, interpreted the correlation between clo
 
 __Results__: Amazon and Google had the strongest correlation of 0.66 in terms of daily stock return and all the technology companies were positively correlated.
 
-# Data Cleaning Project: Bitcoin Cryptocurrency market
+## Data Cleaning Project: Bitcoin Cryptocurrency market
 
 __Objective__: Explored the market capitalization of cryptocurrencies.
 
