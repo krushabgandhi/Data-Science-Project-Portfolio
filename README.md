@@ -10,33 +10,33 @@ The overview of each project is as described below:
 
 # Machine Learning Project: Assesing Wine Qualities
 
-Objective: Analyzed chemical properties influencing the quality of wines.
+__Objective__ : Analyzed chemical properties influencing the quality of wines.
 
-Dataset: The dataset was obtained from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)
+__Dataset__: The dataset was obtained from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
-Analysis: Performed Univariate, Bivariate and Multivariate analysis on the different attributes of the wine using R.
+__Analysis__: Performed Univariate, Bivariate and Multivariate analysis on the different attributes of the wine using R.
 
-Models: Built Linear Regression and Support Vector Machine (SVM) models to predict which chemical compounds are affecting the pH levels.
+__Models__: Built Linear Regression and Support Vector Machine (SVM) models to predict which chemical compounds are affecting the pH levels.
 
-Results: Key factors driving wine quality were alcohol content, sulphates and acidity. SVM performed slightly better than linear model as the pH Root Mean Square Error (RMSE) for SVM is 0.1068 and for linear model is 0.1095.
+__Results__: Key factors driving wine quality were alcohol content, sulphates and acidity. SVM performed slightly better than linear model as the pH Root Mean Square Error (RMSE) for SVM is 0.1068 and for linear model is 0.1095.
 
 # Data Visualization Project: Stock Market Analysis
 
-Motivation: Observed the daily stock trends of the tech giants (Google, Amazon, Microsoft, Apple).
+__Motivation__: Observed the daily stock trends of the tech giants (Google, Amazon, Microsoft, Apple).
 
-Data: Used web scraping technique to extract real time data from Yahoo finance for the period (2011-2015).
+__Data__: Used web scraping technique to extract real time data from Yahoo finance for the period (2011-2015).
 
-Analysis: Visualized the attributes, interpreted the correlation between closing price and daily returns of different stocks using Python.
+__Analysis__: Visualized the attributes, interpreted the correlation between closing price and daily returns of different stocks using Python.
 
-Results: Amazon and Google had the strongest correlation of 0.66 in terms of daily stock return and all the technology companies were positively correlated.
+__Results__: Amazon and Google had the strongest correlation of 0.66 in terms of daily stock return and all the technology companies were positively correlated.
 
 # Data Cleaning Project: Bitcoin Cryptocurrency market
 
-Objective: Explored the market capitalization of cryptocurrencies.
+__Objective__: Explored the market capitalization of cryptocurrencies.
 
-Data: Extracted the data from coinmarketcap API for 6th December 2017.
+__Data__: Extracted the data from coinmarketcap API for 6th December 2017.
 
-Analysis: Analyzed the top 10 biggest gainers, losers and market capitalization of cryptocurrencies on daily and weekly basis.
+__Analysis__: Analyzed the top 10 biggest gainers, losers and market capitalization of cryptocurrencies on daily and weekly basis.
 
-Results: “FedoraCoin” had 800% daily increase while “FlappyCoin” had 90% daily decrease but in the weekly basis BitZeny beat “FedoraCoin” by a margin of 2900% approximately.
+__Results__: “FedoraCoin” had 800% daily increase while “FlappyCoin” had 90% daily decrease but in the weekly basis BitZeny beat “FedoraCoin” by a margin of 2900% approximately.
 
