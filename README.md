@@ -2,12 +2,10 @@
 
 This repository contains all the data science projects created by me as a part of my journey in breaking into this field.
 
-I have created a project for each of the stages involved in the data science pipeline (data cleaning, data visulaization, data storytelling, machine learning)
+I have created a project for each of the stages involved in the __data science pipeline__ (data cleaning, data visulaization, data storytelling, machine learning)
 
-Select the folder of the project for which you want to view the code(jupyter and markdown) files and results.
-
-The overview of each project is as described below:
-
+## The overview of each project is as described below:
+(Click on the folder of the project for which you want to view the code(jupyter and markdown) files and results.)
 # Machine Learning Project: Assesing Wine Qualities
 
 __Objective__ : Analyzed chemical properties influencing the quality of wines.
