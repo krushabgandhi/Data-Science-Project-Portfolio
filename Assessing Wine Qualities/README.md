@@ -1,6 +1,6 @@
 # Machine Learning Project on Assessing Wine Qualities
 
-Objective : Analyzed chemical properties influencing the quality of wines.
+Objective: Analyzed chemical properties influencing the quality of wines.
 
 Dataset: The dataset was obtained from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
